@@ -7,6 +7,12 @@
 <p align="center"><b>A private AI notebook for your Mac. I designed and built it.</b></p>
 
 <p align="center">
+  <a href="https://github.com/embernotebook/ember"><b>Get the app</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://embernotebook.com"><b>Website</b></a>
+</p>
+
+<p align="center">
   <img src="assets/hero-poster.jpg" width="720" alt="Ember">
 </p>
 
