@@ -10,6 +10,8 @@
   <a href="https://github.com/embernotebook/ember"><b>Get the app</b></a>
   &nbsp;&middot;&nbsp;
   <a href="https://embernotebook.github.io/ember/"><b>Website</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.youtube.com/@embernotebook"><b>YouTube</b></a>
 </p>
 
 <p align="center">
@@ -47,6 +49,6 @@ I got tired of a chatbot that forgot me every time. Every new conversation start
 ## Built by
 
 **Muhammad Nabeel**
-[GitHub](https://github.com/MrNabeel) &middot; [LinkedIn](https://www.linkedin.com/in/mrnabeel1)
+[GitHub](https://github.com/MrNabeel) &middot; [LinkedIn](https://www.linkedin.com/in/mrnabeel1) &middot; [YouTube](https://www.youtube.com/@embernotebook)
 
 Built with Claude.
