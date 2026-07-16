@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/embernotebook/ember"><b>Get the app</b></a>
   &nbsp;&middot;&nbsp;
-  <a href="https://embernotebook.com"><b>Website</b></a>
+  <a href="https://embernotebook.github.io/ember/"><b>Website</b></a>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ I got tired of a chatbot that forgot me every time. Every new conversation start
 ## See it
 
 - **Product and download:** [github.com/embernotebook/ember](https://github.com/embernotebook/ember)
-- **Website:** [embernotebook.com](https://embernotebook.com)
+- **Website:** [embernotebook.com](https://embernotebook.github.io/ember/)
 
 ## A look inside
 
